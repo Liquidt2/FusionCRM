@@ -1,10 +1,6 @@
-# NextCRM
+# Fusion-CRM
 
-NextCRM is a CRM build on top of the Next.JS 13.4 using TypeScript, great UI library shadcn, Prisma and MongoDB as a database. Upload things as a S3 blob for document storage.
-
-## Online Demo
-
-You can try it here [demo.nextcrm.io](https://demo.nextcrm.io), login via Google account or create new user and password.
+Fusion-CRM is a CRM build on top of the Next.JS 14.0.4 using TypeScript, great UI library shadcn, Prisma and MongoDB as a database. Upload things as a S3 blob for document storage.
 
 ## What we used to build it
 
@@ -34,25 +30,14 @@ We use Tremor charts as a tool for creating charts in NextCRM
 
 ![hero](/public/reports.png)
 
-## Video (YouTube channel with functions showcase)
-
-[Youtube Channel](https://www.youtube.com/@NextCRM_IO) </br>
-[Invoice module (video)](https://youtu.be/NSMsBMy07Pg)
 
 ## Documentation
-
-Available soon at: http://docs.nextcrm.io
 
 ## Installation
 
 <details><summary><b>Show instructions</b></summary>
 
 1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/pdovhomilja/nextcrm-app.git
-   cd nextcrm-app
-   ```
 
 1. Install the preset:
 
@@ -107,8 +92,6 @@ Available soon at: http://docs.nextcrm.io
 
 ## Docker installation
 
-[Link to Docker HUB](https://hub.docker.com/repository/docker/nextcrmio/nextcrm/general)
-
 <details><summary><b>Show instructions</b></summary>
 
 1. MongoDB URI string for Prisma ORM:
@@ -141,10 +124,5 @@ Available soon at: http://docs.nextcrm.io
 6. http://localhost:3000
 </details>
 
-## Contact
-
-[www.dovhomilja.cz](https://www.dovhomilja.cz)
-
 ## License
 
-Licensed under the [MIT license](https://github.com/pdovhomilja/nextcrm-app/blob/main/LICENSE.md).
